@@ -1,0 +1,4 @@
+time="2024-07-28 19:06:47.302" level=debug msg="this is debug log" func=blog/util/test.TestLogger file="D:/develop/GoWork/src/blog/util/test/logger_test.go:10"
+time="2024-07-28 19:06:47.311" level=info msg="this is info log" func=blog/util/test.TestLogger file="D:/develop/GoWork/src/blog/util/test/logger_test.go:11"
+time="2024-07-28 19:06:47.311" level=warning msg="this is warn log" func=blog/util/test.TestLogger file="D:/develop/GoWork/src/blog/util/test/logger_test.go:12"
+time="2024-07-28 19:06:47.311" level=error msg="this is error log" func=blog/util/test.TestLogger file="D:/develop/GoWork/src/blog/util/test/logger_test.go:13"
