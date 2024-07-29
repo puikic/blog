@@ -1,0 +1,8 @@
+time="2024-07-29 12:09:10.306" level=debug msg="this is debug log" func=blog/util/test.TestLogger file="D:/develop/GoWork/src/blog/util/test/logger_test.go:10"
+time="2024-07-29 12:09:10.316" level=info msg="this is info log" func=blog/util/test.TestLogger file="D:/develop/GoWork/src/blog/util/test/logger_test.go:11"
+time="2024-07-29 12:09:10.316" level=warning msg="this is warn log" func=blog/util/test.TestLogger file="D:/develop/GoWork/src/blog/util/test/logger_test.go:12"
+time="2024-07-29 12:09:10.316" level=error msg="this is error log" func=blog/util/test.TestLogger file="D:/develop/GoWork/src/blog/util/test/logger_test.go:13"
+time="2024-07-29 12:09:47.500" level=debug msg="this is debug log" func=blog/util/test.TestLogger file="D:/develop/GoWork/src/blog/util/test/logger_test.go:10"
+time="2024-07-29 12:09:47.509" level=info msg="this is info log" func=blog/util/test.TestLogger file="D:/develop/GoWork/src/blog/util/test/logger_test.go:11"
+time="2024-07-29 12:09:47.509" level=warning msg="this is warn log" func=blog/util/test.TestLogger file="D:/develop/GoWork/src/blog/util/test/logger_test.go:12"
+time="2024-07-29 12:09:47.509" level=error msg="this is error log" func=blog/util/test.TestLogger file="D:/develop/GoWork/src/blog/util/test/logger_test.go:13"

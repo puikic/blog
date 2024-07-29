@@ -1,0 +1,3 @@
+time="2024-07-29 15:32:32.641" level=info msg="connect to mysql db blog" func=blog/database.createMysqlDB file="D:/develop/GoWork/src/blog/database/db_connection.go:51"
+time="2024-07-29 15:37:01.231" level=info msg="connect to mysql db blog" func=blog/database.createMysqlDB file="D:/develop/GoWork/src/blog/database/db_connection.go:51"
+time="2024-07-29 15:39:47.193" level=info msg="connect to mysql db blog" func=blog/database.createMysqlDB file="D:/develop/GoWork/src/blog/database/db_connection.go:51"

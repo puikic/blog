@@ -10,7 +10,7 @@ import (
 )
 
 var (
-	LogRus *logrus.Logger
+	LogRus *logrus.Logger //其他包调用LogRus时，必须先调用InitLog()函数，否则LogRus为空指针！
 )
 
 func InitLog(configFile string) {
