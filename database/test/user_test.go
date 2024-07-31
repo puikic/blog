@@ -28,4 +28,15 @@ func TestUser(t *testing.T) {
 	}
 }
 
+func TestCreatUser(t *testing.T) {
+	name, pass := "测试用户bot", "123456"
+	database.CreateUser(name, pass)
+}
+
+func TestDelUser(t *testing.T) {
+	database.DeleteUser("测试用户bot")
+}
+
 //go test -v ./database/test -run=^TestUser$ -count=1
+//go test -v ./database/test -run=^TestCreatUser$ -count=1
+//go test -v ./database/test -run=^TestDelUser$ -count=1

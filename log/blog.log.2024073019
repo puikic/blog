@@ -1,0 +1,5 @@
+time="2024-07-30 19:28:40.515" level=info msg="connect to mysql db blog" func=blog/database.createMysqlDB file="D:/develop/GoWork/src/blog/database/db_connection.go:51"
+time="2024-07-30 19:28:40.541" level=error msg="create user 测试用户bot failed: Error 1406 (22001): Data too long for column 'password' at row 1" func=blog/database.CreateUser file="D:/develop/GoWork/src/blog/database/user.go:49"
+time="2024-07-30 19:30:51.507" level=info msg="connect to mysql db blog" func=blog/database.createMysqlDB file="D:/develop/GoWork/src/blog/database/db_connection.go:51"
+time="2024-07-30 19:30:51.532" level=error msg="create user id: 3" func=blog/database.CreateUser file="D:/develop/GoWork/src/blog/database/user.go:51"
+time="2024-07-30 19:33:50.744" level=info msg="connect to mysql db blog" func=blog/database.createMysqlDB file="D:/develop/GoWork/src/blog/database/db_connection.go:51"

@@ -1,0 +1,1 @@
+time="2024-07-30 17:12:33.875" level=info msg="connect to mysql db blog" func=blog/database.createMysqlDB file="D:/develop/GoWork/src/blog/database/db_connection.go:51"
