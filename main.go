@@ -26,7 +26,7 @@ func main() {
 	//restful风格,参数放在url路径里
 	router.GET("/blog/list/:uid", handler.BlogList)
 	router.GET("blog/:bid", handler.BlogDetail)
-	router.POST("blog/update", middleware.Auth(), handler.BlogUpdate)
+	// router.POST("blog/update", middleware.Auth(), handler.BlogUpdate)
 
 	router.Run("127.0.0.1:5678")
 }
